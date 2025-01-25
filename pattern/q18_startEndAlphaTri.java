@@ -1,3 +1,9 @@
+/*
+E 
+D E 
+C D E 
+B C D E 
+ */
 public class q18_startEndAlphaTri {
     public static void main(String[] args) {
         int i, j;
