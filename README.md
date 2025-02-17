@@ -1,3 +1,4 @@
+![Logo](https://github.com/AkashRouth001/DSA-WITH-JAVA/blob/f444de1723451b1fffe9c4aba31fb8234251845b/images/dsajava.jpg)
 # Java DSA Roadmap
 
 This roadmap is designed to help you master Data Structures and Algorithms (DSA) using Java. 🌟 Follow the structured steps and lectures to progress from beginner to advanced levels. 🚀 Track your progress as you complete each module. 📝
